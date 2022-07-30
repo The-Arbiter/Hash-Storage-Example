@@ -1,0 +1,17 @@
+cache/
+out/
+out/*
+
+# Ignore Environment Variables!
+.env
+.env.prod
+
+# Ignore all vscode settings
+.vscode/
+
+# Ignore flattened files
+flattened.txt
+
+broadcast
+
+.DS_Store
